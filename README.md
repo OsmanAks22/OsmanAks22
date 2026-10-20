@@ -1,6 +1,6 @@
 ## Hi, I'm Osman 👋
 
-**Graduate data scientist in London.** I have just completed an MSc in Data Science & Analytics at the University of Westminster (results pending). Before that I did a BSc in Industrial Engineering at Sabancı University.
+**Graduate data scientist in London.** I have just completed an MSc in Data Science & Analytics at the University of Westminster. Before that I did a BSc in Industrial Engineering at Sabancı University.
 
 I build end-to-end machine-learning pipelines in Python and SQL, from API data collection and ETL through modelling, evaluation and reporting, and I ship data products as tested full-stack web apps. I care about validating models properly and preventing data leakage, and about turning results into clear decisions.
 
